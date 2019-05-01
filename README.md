@@ -7,7 +7,7 @@ my first repository, 수업시간에 연습으로 만드는 저장소입니다
 * beginner
 * **I like bread**
 
-* [GitHub]https://github.com
+* [GitHub](https://github.com)
 * [구글](https://google.com)
 
 Sam said:
